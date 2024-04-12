@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lelayf
-- 👀 My expertise is in the creation and evolution of data systems at large
+- 👀 My expertise is in the creation of AI capabilities
 - 💞️ I am a founding AI engineer at Spark Space! 
 
 <!---
