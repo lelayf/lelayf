@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @lelayf
-- 👀 My expertise is in the creation of AI capabilities
-- 💞️ I am a founding AI engineer at Spark Space! 
+- 👋 Hi, I’m @lelayf, my expertise is in the creation of AI capabilities
 
 <!---
 lelayf/lelayf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
